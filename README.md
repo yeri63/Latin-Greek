@@ -14,7 +14,7 @@ pre- | before | preplan, pretest
 meter, metr | measure | diameter, perimeter
 photo | light | photograph, photocopy
 port | to carry | portable, transport
-semi- | half | semicircle, semicolon
-super- | above, on top of, beyond | superfine, supersonic
-multi- | many or much | multicolor, multipurpose
+-ist | one who ... | artist, tourist"
+-logy, -ology | science or study of | biology, chronology
+-ism | act, belief, or practice | patriotism, idealism
 </div>
