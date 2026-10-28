@@ -3,7 +3,8 @@
   
 ![Screenshot of Latin and Greek](https://github.com/yeri63/Latin-Greek/blob/master/latin.png)
 </div>
-<p>Latin and Greek reference guide of common prefixes, suffixes and roots to help decipher unfamiliar terms. Here's a sample of what is available...</p>
+<p>Latin and Greek reference guide of common prefixes, suffixes and roots to help decipher unfamiliar terms.</p>
+<p>Here are a few examples...</p>
 <div align="center">
   
 Term | Meaning | Example
