@@ -1,7 +1,7 @@
 # Latin and Greek
 <div align="center">
   
-![Screenshot of Latin and Greek](https://github.com/yeri63/Latin-Greek/blob/master/latin.png)
+![Screenshot of Latin and Greek](latin.png)
 </div>
 <p>Understanding Greek and Latin roots is important because over 60% of English words, and up to 90% of scientific, medical, and technical terms are derived from them.</p>
 <p>Breaking a complex word into a root, prefix, and suffix lets you understand its meaning. A strong grasp of these roots directly improves vocabulary scores on exams like the SAT, ACT, GRE, and LSAT.</p>
